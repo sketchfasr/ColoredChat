@@ -15,5 +15,8 @@ The Custom Colored Chat (+25 mode) tab can be opened in any lobby. The game vers
 
 Human back, credits time:
 Nocturne menu: I ripped off the presets tab from nocturne menu, then did some improvements to it
+
 Sicko menu: For many of the text style options in Custom colored chat tab
+
 Hydra menu: For the check to see if its safe to allow the user to use Custom colored chat tabin this lobby or not
+
